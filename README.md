@@ -15,7 +15,7 @@ The structure of the repository is as follows:
 
 Since different code could use same data, we have a common folder for data. This is done to prevent from downloading the same data multiple times and filling up storage.
 
-Is is assumed the data is stored in the `shared_data` folder, in the project root. You can access the path by importing it from the `constants.py` file, in the project root.
+It is assumed the data is stored in the `shared_data` folder (create it if not present), in the project root. You can access the path by importing it from the `constants.py` file, in the project root.
 
 ### Teachers and TAs
 - Teachers: [Lukas Galke Poech](https://portal.findresearcher.sdu.dk/en/persons/lukas-paul-achatius-galke-poech/)
