@@ -6,3 +6,4 @@ torchaudio
 torchvision
 seaborn
 tqdm
+datasets
