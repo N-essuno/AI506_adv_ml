@@ -19,4 +19,4 @@ It is assumed the data is stored in the `shared_data` folder (create it if not p
 
 ### Teachers and TAs
 - Teachers: [Lukas Galke Poech](https://portal.findresearcher.sdu.dk/en/persons/lukas-paul-achatius-galke-poech/)
-- Teaching assistants: [Gianluca Barmina](https://portal.findresearcher.sdu.dk/en/persons/gbarmina/), [Mogens From](https://portal.findresearcher.sdu.dk/en/persons/mogens-from/)
+- Teaching assistants: [Gianluca Barmina](https://portal.findresearcher.sdu.dk/en/persons/gbarmina/), [Mogens Henrik From](https://portal.findresearcher.sdu.dk/en/persons/mogens-from/)
